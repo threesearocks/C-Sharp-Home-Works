@@ -10,6 +10,7 @@ namespace C_Sharp_Home_Works
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
